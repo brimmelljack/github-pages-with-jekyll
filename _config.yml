@@ -1,13 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: The Sport Psych Blog
+author: Jack Brimmell
+email: j.brimmell@yorksj.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  In this blog I will examine current topics in sport under a sport
+  psychology lens. The aim of the blog will be to provide a place
+  to discuss these moments and how we see popular sport psychology
+  topics in action.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: at JACKBRIMMELL # DO NOT include the @ character, or else the build will fail!
+github_username:  at brimmelljack# DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
